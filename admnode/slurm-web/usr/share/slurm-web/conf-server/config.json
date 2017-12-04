@@ -1,0 +1,7 @@
+{
+ "STARTPAGE": "jobsmap",
+ "REFRESH": 30000,
+ "MAXNODESLENGTH": 25,
+ "AUTOLOGIN": false,
+ "LOGOURL": "static/logo.png"
+}
